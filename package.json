@@ -1,0 +1,19 @@
+{
+  "name": "jogo-nave-espacial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegotpereira/jogo-nave-espacial.git"
+  },
+  "author": "Diego Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegotpereira/jogo-nave-espacial/issues"
+  },
+  "homepage": "https://github.com/diegotpereira/jogo-nave-espacial#readme"
+}
